@@ -1,4 +1,4 @@
-#microblog
+microblog
 ===========
 #概述
 这是《The Flask Mega-Tutorial 》中的microblog的例子
